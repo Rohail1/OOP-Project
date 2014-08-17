@@ -1,0 +1,60 @@
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\OOp Project.exe.config
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\OOp Project.exe
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\OOp Project.pdb
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Controls.dll
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.dll
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Imaging.dll
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Video.dll
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Math.dll
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.xml
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Controls.xml
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Imaging.xml
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Video.xml
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\bin\Debug\AForge.Math.xml
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\obj\Debug\OOp Project.csprojResolveAssemblyReference.cache
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\obj\Debug\OOp_Project.MainFOrm.resources
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\obj\Debug\OOp_Project.Properties.Resources.resources
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\obj\Debug\OOp Project.csproj.GenerateResource.Cache
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\obj\Debug\OOp Project.exe
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\obj\Debug\OOp Project.pdb
+c:\users\rohail\documents\visual studio 2012\Projects\OOp Project\OOp Project\obj\Debug\OOp_Project.Error.resources
+G:\OOp Project\OOp Project\bin\Debug\OOp Project.exe.config
+G:\OOp Project\OOp Project\obj\Debug\OOp Project.exe
+G:\OOp Project\OOp Project\obj\Debug\OOp Project.pdb
+G:\OOp Project\OOp Project\bin\Debug\OOp Project.exe
+G:\OOp Project\OOp Project\bin\Debug\OOp Project.pdb
+G:\OOp Project\OOp Project\bin\Debug\AForge.Math.dll
+G:\OOp Project\OOp Project\bin\Debug\AForge.xml
+G:\OOp Project\OOp Project\bin\Debug\AForge.Controls.xml
+G:\OOp Project\OOp Project\bin\Debug\AForge.Imaging.xml
+G:\OOp Project\OOp Project\bin\Debug\AForge.Video.xml
+G:\OOp Project\OOp Project\bin\Debug\AForge.Video.DirectShow.xml
+G:\OOp Project\OOp Project\bin\Debug\AForge.Math.xml
+G:\OOp Project\OOp Project\obj\Debug\OOp_Project.Error.resources
+G:\OOp Project\OOp Project\obj\Debug\OOp_Project.MainFOrm.resources
+G:\OOp Project\OOp Project\obj\Debug\OOp_Project.Properties.Resources.resources
+G:\OOp Project\OOp Project\obj\Debug\ResolveAssemblyReference.cache
+G:\OOp Project\OOp Project\obj\Debug\GenerateResource.read.1.tlog
+G:\OOp Project\OOp Project\obj\Debug\GenerateResource.write.1.tlog
+F:\OOp Project\OOp Project\bin\Debug\OOp Project.exe.config
+F:\OOp Project\OOp Project\obj\Debug\OOp Project.exe
+F:\OOp Project\OOp Project\obj\Debug\OOp Project.pdb
+F:\OOp Project\OOp Project\bin\Debug\OOp Project.exe
+F:\OOp Project\OOp Project\bin\Debug\OOp Project.pdb
+F:\OOp Project\OOp Project\bin\Debug\AForge.Math.dll
+F:\OOp Project\OOp Project\bin\Debug\AForge.xml
+F:\OOp Project\OOp Project\bin\Debug\AForge.Controls.xml
+F:\OOp Project\OOp Project\bin\Debug\AForge.Imaging.xml
+F:\OOp Project\OOp Project\bin\Debug\AForge.Video.xml
+F:\OOp Project\OOp Project\bin\Debug\AForge.Video.DirectShow.xml
+F:\OOp Project\OOp Project\bin\Debug\AForge.Math.xml
+F:\OOp Project\OOp Project\obj\Debug\OOp Project.csprojResolveAssemblyReference.cache
+F:\OOp Project\OOp Project\obj\Debug\OOp_Project.Error.resources
+F:\OOp Project\OOp Project\obj\Debug\OOp_Project.MainFOrm.resources
+F:\OOp Project\OOp Project\obj\Debug\OOp_Project.Properties.Resources.resources
+F:\OOp Project\OOp Project\obj\Debug\OOp Project.csproj.GenerateResource.Cache
+I:\OOp Project\OOp Project\bin\Debug\OOp Project.exe.config
+I:\OOp Project\OOp Project\obj\Debug\OOp Project.exe
+I:\OOp Project\OOp Project\obj\Debug\OOp Project.pdb
